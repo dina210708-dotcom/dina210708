@@ -1,2 +1,6 @@
-S1=6 S2=0 S3=6
-Sum ASC: 6, DESC: 6
+Initial vector V: 1 2 3 4 
+Sums of groups: 10 
+S1=10, S2=0, S3=S1-S2=10
+Sorted ASC, Total Sum: 10
+Sorted DESC, Total Sum: 10
+Repeated elements: 
