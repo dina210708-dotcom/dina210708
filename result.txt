@@ -1,2 +1,2 @@
-S1=3 S2=7 S3=-4
-Sum ASC: 15, DESC: 15
+S1=6 S2=0 S3=6
+Sum ASC: 6, DESC: 6
